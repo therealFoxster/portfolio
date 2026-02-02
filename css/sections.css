@@ -47,7 +47,7 @@
   color: white;
   margin-top: -3rem;
   will-change: transform;
-  animation: scroll_by_width 360s linear infinite, hello-fade-in 2s ease-out 0.5s both;
+  animation: scroll_by_width 360s linear infinite, hello-fade-in 2s ease-out 1s both;
 }
 
 .hello-row:first-child {
@@ -55,7 +55,7 @@
 }
 
 .hello-row:nth-child(2) {
-  animation: scroll_by_width_reverse 365s linear infinite, hello-fade-in 4s ease-out 0.5s both;
+  animation: scroll_by_width_reverse 365s linear infinite, hello-fade-in 4s ease-out 1s both;
 }
 
 .hello-row > span {
