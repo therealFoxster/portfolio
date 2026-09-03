@@ -22,8 +22,14 @@
             {
                 "title": "Web Developer",
                 "subtitle": "iData Research",
-                "date": "May 2024 - Present",
+                "date": "May 2024 - September 2026",
                 "img" : "assets/img/logos/idata-research.png"
+            },
+            {
+                "title": "MSc, Computing Science",
+                "subtitle": "Simon Fraser University",
+                "date": "June 2026 - Present",
+                "img" : "assets/img/logos/sfu.png"
             }
         ]
     },
